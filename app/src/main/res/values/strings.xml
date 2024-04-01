@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">30DaysApp</string>
+
+    <string name="day">Day %d</string>
+    <string name="expand_button_content_description">See more or less information about the wellness.</string>
+
+    <string name="wellness_name1">Spend 15 minutes outdoors</string>
+    <string name="wellness_text1">Put some time on your calendar to take a walk outside or maybe even take a meeting while you\'re strolling through your neighborhood.</string>
+
+    <string name="wellness_name2">Listen to a new podcast</string>
+    <string name="wellness_text2">Listen to a podcast and explore a topic you\'ve been itching to learn more about or discover a completely new topic or genre of podcast content.</string>
+
+    <string name="wellness_name3">Try a new recipe</string>
+    <string name="wellness_text3">Challenge yourself to cook a new dish from scratch. Pick a recipe that excites your taste buds and get creative in the kitchen.</string>
+
+    <string name="wellness_name4">Practice gratitude journaling</string>
+    <string name="wellness_text4">Set aside a few minutes each day to reflect on what you\'re grateful for. Write down three things you appreciate, big or small, to cultivate a positive mindset.</string>
+
+    <string name="wellness_name5">Unplug from technology</string>
+    <string name="wellness_text5">Take a break from screens and digital devices. Disconnect for an hour or two to reduce stress, improve sleep quality, and reconnect with the world around you.</string>
+
+    <string name="wellness_name6">Attend a virtual fitness class</string>
+    <string name="wellness_text6">Join an online fitness class to get moving and break a sweat from the comfort of your own home. Try something new like yoga, dance, or high-intensity interval training.</string>
+
+    <string name="wellness_name7">Deep breathing exercises</string>
+    <string name="wellness_text7">Take a moment to focus on your breath. Practice deep breathing exercises to reduce stress, increase mindfulness, and promote relaxation throughout your day.</string>
+
+    <string name="wellness_name8">Create a vision board</string>
+    <string name="wellness_text8">Gather magazines, photos, and inspiring quotes to create a vision board that represents your goals and aspirations. Display it somewhere you\'ll see it daily to stay motivated and focused.</string>
+
+    <string name="wellness_name9">Enjoy a mindful nature walk</string>
+    <string name="wellness_text9">Take a leisurely stroll in nature and engage your senses. Notice the sights, sounds, and smells around you as you immerse yourself in the beauty of the outdoors.</string>
+
+    <string name="wellness_name10">Progressive muscle relaxation</string>
+    <string name="wellness_text10">Tension and release each muscle group in your body, starting from your toes and working your way up to your head. This relaxation technique can help reduce physical tension and promote a sense of calm.</string>
+
+    <string name="wellness_name11">Write a letter</string>
+    <string name="wellness_text11">Take the time to express your thoughts and feelings in a heartfelt letter to someone special. Share fond memories, words of encouragement, or simply let them know how much they mean to you.</string>
+
+    <string name="wellness_name12">Create a self-care routine</string>
+    <string name="wellness_text12">Design a personalized self-care routine that prioritizes your mental, emotional, and physical well-being. Incorporate activities that nourish your mind, body, and soul to enhance overall wellness.</string>
+
+    <string name="wellness_name13">Mindfulness meditation</string>
+    <string name="wellness_text13">Set aside time each day to practice mindfulness meditation. Focus on your breath and observe your thoughts and sensations without judgment, cultivating a sense of calm and presence.</string>
+
+    <string name="wellness_name14">Try a new hobby or craft</string>
+    <string name="wellness_text14">Explore your interests and try your hand at a new hobby or craft. Whether it\'s painting, knitting, gardening, or playing a musical instrument, engaging in creative activities can bring joy and fulfillment.</string>
+
+    <string name="wellness_name15">Organize your space</string>
+    <string name="wellness_text15">Spend some time decluttering and organizing your living space. Clearing out unnecessary items and creating a tidy environment can promote a sense of calm and productivity.</string>
+
+    <string name="wellness_name16">Practice positive affirmations</string>
+    <string name="wellness_text16">Start your day with positive affirmations to boost self-confidence and optimism. Repeat affirmations such as "I am capable," "I am worthy," and "I am enough" to cultivate a positive mindset.</string>
+
+    <string name="wellness_name17">Connect with a friend</string>
+    <string name="wellness_text17">Reach out to a friend or family member for a meaningful conversation or virtual hangout. Strengthening social connections can provide support, encouragement, and a sense of belonging.</string>
+
+    <string name="wellness_name18">Volunteer</string>
+    <string name="wellness_text18">Get involved in your community by volunteering for a cause that aligns with your values. Whether it\'s helping out at a local charity, participating in a beach cleanup, or volunteering your skills, giving back can bring fulfillment and purpose.</string>
+
+    <string name="wellness_name19">Practice time management</string>
+    <string name="wellness_text19">Improve your productivity and reduce stress by practicing effective time management techniques. Prioritize tasks, set realistic goals, and use tools like to-do lists and calendars to stay organized and focused.</string>
+
+    <string name="wellness_name20">Explore nature photography</string>
+    <string name="wellness_text20">Grab your camera or smartphone and explore the beauty of nature through photography. Capture stunning landscapes, unique wildlife, and intricate details to enhance your appreciation for the natural world.</string>
+
+    <string name="wellness_name21">Try a new form of exercise</string>
+    <string name="wellness_text21">Switch up your workout routine and try a new form of exercise to challenge your body and mind. Whether it\'s hiking, rock climbing, swimming, or martial arts, discovering new ways to move can keep fitness fun and exciting.</string>
+
+    <string name="wellness_name22">Practice self-compassion</string>
+    <string name="wellness_text22">Be kind and compassionate towards yourself, especially during times of difficulty or self-doubt. Treat yourself with the same kindness and understanding that you would offer to a friend, embracing your imperfections and celebrating your strengths.</string>
+
+    <string name="wellness_name23">Create a gratitude jar</string>
+    <string name="wellness_text23">Start a gratitude jar and write down things you\'re grateful for on slips of paper each day. Fill the jar with your notes of gratitude and take moments to reflect on the blessings in your life, cultivating a sense of appreciation and abundance.</string>
+
+    <string name="wellness_name24">Learn a new language or skill</string>
+    <string name="wellness_text24">Challenge yourself to learn something new, whether it\'s a foreign language, musical instrument, coding language, or cooking technique. Embrace the learning process and enjoy the sense of accomplishment that comes with mastering a new skill.</string>
+
+    <string name="wellness_name25">Create a digital detox plan</string>
+    <string name="wellness_text25">Take a break from technology and create a digital detox plan to reduce screen time and improve overall well-being. Set boundaries for device use, schedule tech-free activities, and prioritize real-life connections and experiences.</string>
+
+    <string name="wellness_name26">Practice mindful eating</string>
+    <string name="wellness_text26">Slow down and savor each bite by practicing mindful eating. Pay attention to the flavors, textures, and sensations of your food, and eat without distractions to fully enjoy the nourishment and pleasure of eating.</string>
+
+    <string name="wellness_name27">Creative writing session</string>
+    <string name="wellness_text27">Set aside time for a creative writing session to explore your thoughts, feelings, and imagination. Write freely without judgment, experimenting with poetry, short stories, journaling, or creative prompts to unleash your creativity.</string>
+
+    <string name="wellness_name28">Practice digital mindfulness</string>
+    <string name="wellness_text28">Develop healthy digital habits and practice digital mindfulness to maintain balance and well-being in the digital age. Set boundaries for screen time, prioritize meaningful online interactions, and use technology intentionally and mindfully.</string>
+
+    <string name="wellness_name29">Explore a new culture</string>
+    <string name="wellness_text29">Expand your horizons and explore a new cultural experience, whether it\'s trying exotic cuisine, attending a cultural festival, or learning about a different tradition or art form. Embrace diversity and celebrate the richness of human culture.</string>
+
+    <string name="wellness_name30">Create a gratitude journal</string>
+    <string name="wellness_text30">Start a gratitude journal and write down three things you\'re grateful for each day. Cultivate a positive mindset and appreciation for the blessings in your life, focusing on moments of joy, love, and abundance.</string>
+
+</resources>
